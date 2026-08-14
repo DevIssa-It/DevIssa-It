@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There!%20I'm%20Issa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20and%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There!%20I'm%20Rofiq%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20and%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://ahmadissadurrofiq.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%7C+React.js+and+Next.js;Building+Scalable+Web+Apps+with+Modern+Stacks;IT+Student+at+Universitas+Brawijaya;Open+to+Full-Stack+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=6366F1&vCenter=true&size=22&pause=1500"/>
