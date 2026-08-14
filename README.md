@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There!%20I'm%20Issa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20%26%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://ahmadissadurrofiq.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+Intern+%40+CV+Koding+Data+Artifisial;Building+Scalable+Web+Apps+with+Next.js+%26+React;IT+Student+at+Universitas+Brawijaya;Open+to+Full-Stack+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=6366F1&vCenter=true&size=22&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%7C+React.js+%26+Next.js;Building+Scalable+Web+Apps+with+Modern+Stacks;IT+Student+at+Universitas+Brawijaya;Open+to+Full-Stack+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=6366F1&vCenter=true&size=22&pause=1500"/>
 </a>
 
 </div>
@@ -14,7 +14,7 @@
 
 - 🎓 IT Student at **Universitas Brawijaya**, focused on modern web development
 - 💻 Specializing in **Front-End** (React.js, Next.js, Tailwind CSS) with solid **Back-End** skills (Laravel, Node.js, MySQL)
-- 🏢 Currently a **Frontend Developer Intern** at CV Koding Data Artifisial — building modular ERP dashboards with Next.js 15 & TypeScript
+- 🏢 Experienced in building modular ERP dashboards, role-based access systems, and enterprise-scale applications with Next.js 15 & TypeScript
 - 🌱 Committed to becoming a **Full-Stack Developer** who builds scalable, innovative digital solutions
 - 📍 Based in Malang, Jawa Timur, Indonesia
 - ⚡ Fun fact: optimized app performance by up to 35% and cut manual admin work by up to 40% across my projects
@@ -33,21 +33,12 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
+| Project | Description |
+|---|---|
+| 🏫 **CampusHub** | Campus memory-sharing & event management platform — adopted by 200+ students, cut manual admin work by up to 40% |
+| 💼 **TalentHunt** | Recruitment platform with role-based dashboards — used by 200+ candidates for job applications, up to 35% faster access |
 
-<a href="https://github.com/DevIssa-It" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=CampusHub&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DevIssa-It" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=TalentHunt&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 **CampusHub** — Campus memory-sharing & event management platform, adopted by 200+ students, up to 40% less manual admin work
-> 💡 **TalentHunt** — Recruitment platform with role-based dashboards, used by 200+ candidates for job applications
->
-> *(Ganti nama repo di atas sesuai nama repo asli kamu di GitHub, ya)*
+> ⚠️ Untuk menampilkan kartu repo di sini secara otomatis, pastikan nama repo di atas sama persis dengan nama repo asli di akun GitHub kamu (lihat catatan di bawah).
 
 <br/>
 
@@ -58,7 +49,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevIssa-It&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIssa-It&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIssa-It&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevIssa-It&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
