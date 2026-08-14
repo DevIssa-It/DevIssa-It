@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There!%20I'm%20Issa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20%26%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There!%20I'm%20Issa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20and%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://ahmadissadurrofiq.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%7C+React.js+%26+Next.js;Building+Scalable+Web+Apps+with+Modern+Stacks;IT+Student+at+Universitas+Brawijaya;Open+to+Full-Stack+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=6366F1&vCenter=true&size=22&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer+%7C+React.js+and+Next.js;Building+Scalable+Web+Apps+with+Modern+Stacks;IT+Student+at+Universitas+Brawijaya;Open+to+Full-Stack+Opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=6366F1&vCenter=true&size=22&pause=1500"/>
 </a>
 
 </div>
@@ -33,12 +33,43 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🏫 **CampusHub** | Campus memory-sharing & event management platform — adopted by 200+ students, cut manual admin work by up to 40% |
-| 💼 **TalentHunt** | Recruitment platform with role-based dashboards — used by 200+ candidates for job applications, up to 35% faster access |
+<div align="center">
 
-> ⚠️ Untuk menampilkan kartu repo di sini secara otomatis, pastikan nama repo di atas sama persis dengan nama repo asli di akun GitHub kamu (lihat catatan di bawah).
+<a href="https://github.com/DevIssa-It/CampusHub" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=CampusHub&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/DevIssa-It/CampusHub-FE" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=CampusHub-FE&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/DevIssa-It/hiring-management-app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=hiring-management-app&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/DevIssa-It/AuctionHub" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=AuctionHub&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 **CampusHub** — Campus memory-sharing & event management platform, adopted by 200+ students, up to 40% less manual admin work
+> 💡 **hiring-management-app (TalentHunt)** — Recruitment platform with role-based dashboards, used by 200+ candidates for job applications
+
+<details>
+<summary>💼 Other Projects</summary>
+<br/>
+
+| Repo | Link |
+|---|---|
+| mini-sales | [github.com/DevIssa-It/mini-sales](https://github.com/DevIssa-It/mini-sales) |
+| estafet-usaha | [github.com/DevIssa-It/estafet-usaha](https://github.com/DevIssa-It/estafet-usaha) |
+| skillswap | [github.com/DevIssa-It/skillswap](https://github.com/DevIssa-It/skillswap) |
+| Arcline | [github.com/DevIssa-It/Arcline](https://github.com/DevIssa-It/Arcline) |
+| berita-kini | [github.com/DevIssa-It/berita-kini](https://github.com/DevIssa-It/berita-kini) |
+| monkey-coffe | [github.com/DevIssa-It/monkey-coffe](https://github.com/DevIssa-It/monkey-coffe) |
+| sporton-be | [github.com/DevIssa-It/sporton-be](https://github.com/DevIssa-It/sporton-be) |
+| sporton-fe | [github.com/DevIssa-It/sporton-fe](https://github.com/DevIssa-It/sporton-fe) |
+| CampusHub-Action | [github.com/DevIssa-It/CampusHub-Action](https://github.com/DevIssa-It/CampusHub-Action) |
+
+</details>
 
 <br/>
 
