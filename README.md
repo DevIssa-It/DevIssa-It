@@ -78,7 +78,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=DevIssa-It&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=DevIssa-It&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
 
 <br/>
 
