@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There!%20I'm%20Issa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React.js%20and%20Next.js%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
@@ -67,15 +67,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DevIssa-It&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/DevIssa-It?label=FOLLOWERS&style=for-the-badge&color=22D3EE&logo=github&logoColor=white)
 
-</div>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevIssa-It&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=ffffff&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIssa-It&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&langs_count=8" height="180"/>
 
 <br/>
 
-### 🐍 Contribution Snake
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevIssa-It&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1" width="70%"/>
 
-<div align="center">
+<br/>
 
-<img src="https://raw.githubusercontent.com/DevIssa-It/DevIssa-It/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevIssa-It&bg_color=0D1117&color=6366F1&line=22D3EE&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -86,6 +89,20 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DevIssa-It/DevIssa-It/main/metrics.svg" alt="GitHub Metrics" width="100%"/>
+
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevIssa-It/DevIssa-It/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevIssa-It/DevIssa-It/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DevIssa-It/DevIssa-It/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
