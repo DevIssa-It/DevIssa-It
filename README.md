@@ -33,25 +33,12 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/DevIssa-It/CampusHub" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=CampusHub&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DevIssa-It/CampusHub-FE" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=CampusHub-FE&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DevIssa-It/hiring-management-app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=hiring-management-app&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/DevIssa-It/AuctionHub" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevIssa-It&repo=AuctionHub&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 **CampusHub** — Campus memory-sharing & event management platform, adopted by 200+ students, up to 40% less manual admin work
-> 💡 **hiring-management-app (TalentHunt)** — Recruitment platform with role-based dashboards, used by 200+ candidates for job applications
+| Project | Description | Stack |
+|---|---|---|
+| 🏫 [**CampusHub**](https://github.com/DevIssa-It/CampusHub) | Campus memory-sharing & event management platform — adopted by 200+ students, cut manual admin work by up to 40% | ![Repo](https://img.shields.io/badge/repo-CampusHub-6366F1?style=flat-square&logo=github&logoColor=white) |
+| 🎨 [**CampusHub-FE**](https://github.com/DevIssa-It/CampusHub-FE) | Front-end client for the CampusHub platform | ![Repo](https://img.shields.io/badge/repo-CampusHub--FE-6366F1?style=flat-square&logo=github&logoColor=white) |
+| 💼 [**hiring-management-app**](https://github.com/DevIssa-It/hiring-management-app) *(TalentHunt)* | Recruitment platform with role-based dashboards — used by 200+ candidates for job applications | ![Repo](https://img.shields.io/badge/repo-hiring--management--app-6366F1?style=flat-square&logo=github&logoColor=white) |
+| 🔨 [**AuctionHub**](https://github.com/DevIssa-It/AuctionHub) | Online auction platform | ![Repo](https://img.shields.io/badge/repo-AuctionHub-6366F1?style=flat-square&logo=github&logoColor=white) |
 
 <details>
 <summary>💼 Other Projects</summary>
@@ -77,10 +64,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevIssa-It&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIssa-It&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevIssa-It&theme=tokyo-night&hide_border=true" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=DevIssa-It&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/DevIssa-It?label=FOLLOWERS&style=for-the-badge&color=22D3EE&logo=github&logoColor=white)
 
 </div>
 
