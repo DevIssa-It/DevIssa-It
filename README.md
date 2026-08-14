@@ -31,7 +31,27 @@
 
 <br/>
 
+### 📶 Skill Level
+
+<div align="center">
+
+| Skill | Level | Progress |
+|---|---|---|
+| **React.js / Next.js** | Advanced | ![90%](https://geps.dev/progress/90?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
+| **TypeScript** | Advanced | ![85%](https://geps.dev/progress/85?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
+| **Tailwind CSS** | Advanced | ![90%](https://geps.dev/progress/90?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
+| **Vue.js** | Intermediate | ![70%](https://geps.dev/progress/70?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
+| **Node.js / Express** | Intermediate | ![72%](https://geps.dev/progress/72?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
+| **Laravel** | Intermediate | ![68%](https://geps.dev/progress/68?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
+| **MySQL / MongoDB** | Intermediate | ![75%](https://geps.dev/progress/75?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
+| **Git / GitHub** | Advanced | ![88%](https://geps.dev/progress/88?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
+
+</div>
+
+<br/>
+
 ### 📌 Featured Projects
+
 
 | Project | Description | Stack |
 |---|---|---|
@@ -83,6 +103,16 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevIssa-It&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevIssa-It&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 </div>
 
