@@ -108,16 +108,6 @@
 
 <br/>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevIssa-It&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
