@@ -37,14 +37,14 @@
 
 | Skill | Level | Progress |
 |---|---|---|
-| **React.js / Next.js** | Advanced | ![90%](https://geps.dev/progress/90?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
-| **TypeScript** | Advanced | ![85%](https://geps.dev/progress/85?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
-| **Tailwind CSS** | Advanced | ![90%](https://geps.dev/progress/90?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
-| **Vue.js** | Intermediate | ![70%](https://geps.dev/progress/70?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
-| **Node.js / Express** | Intermediate | ![72%](https://geps.dev/progress/72?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
-| **Laravel** | Intermediate | ![68%](https://geps.dev/progress/68?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
-| **MySQL / MongoDB** | Intermediate | ![75%](https://geps.dev/progress/75?dangerColor=22D3EE&warningColor=22D3EE&successColor=22D3EE) |
-| **Git / GitHub** | Advanced | ![88%](https://geps.dev/progress/88?dangerColor=6366F1&warningColor=6366F1&successColor=6366F1) |
+| **React.js / Next.js** | Advanced | ![90%](https://img.shields.io/badge/90%25-■■■■■■■■■□-6366F1?style=flat-square) |
+| **TypeScript** | Advanced | ![85%](https://img.shields.io/badge/85%25-■■■■■■■■□□-6366F1?style=flat-square) |
+| **Tailwind CSS** | Advanced | ![90%](https://img.shields.io/badge/90%25-■■■■■■■■■□-22D3EE?style=flat-square) |
+| **Vue.js** | Intermediate | ![70%](https://img.shields.io/badge/70%25-■■■■■■■□□□-6366F1?style=flat-square) |
+| **Node.js / Express** | Intermediate | ![72%](https://img.shields.io/badge/72%25-■■■■■■■□□□-22D3EE?style=flat-square) |
+| **Laravel** | Intermediate | ![68%](https://img.shields.io/badge/68%25-■■■■■■□□□□-6366F1?style=flat-square) |
+| **MySQL / MongoDB** | Intermediate | ![75%](https://img.shields.io/badge/75%25-■■■■■■■□□□-22D3EE?style=flat-square) |
+| **Git / GitHub** | Advanced | ![88%](https://img.shields.io/badge/88%25-■■■■■■■■□□-6366F1?style=flat-square) |
 
 </div>
 
