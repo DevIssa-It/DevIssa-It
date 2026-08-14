@@ -81,6 +81,16 @@
 
 <br/>
 
+### 📈 GitHub Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DevIssa-It/DevIssa-It/main/metrics.svg" alt="GitHub Metrics" width="100%"/>
+
+</div>
+
+<br/>
+
 ### 🌐 Connect With Me
 
 <div align="center">
