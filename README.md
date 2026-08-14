@@ -69,8 +69,12 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevIssa-It&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevIssa-It&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevIssa-It&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevIssa-It&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevIssa-It&theme=tokyonight" height="180"/>
 
 <br/>
 
